@@ -1,4 +1,4 @@
-# WEW_PythonShop
+# MSSL Work Experience Week Python Workshop 2021
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
