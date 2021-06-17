@@ -12,7 +12,7 @@ This repository holds jupyter notebooks for students that attend the WEW. It has
   - 3 -> Plots on Python
   - 4a -> The Sun (Coronal Imaging)
   - 4b -> The Sun (Coronagraph)
-  - 5 -> Python for Solar Physics: Sunpy
+  - 5 -> Calculating the Speed of the CME
 
   
  
