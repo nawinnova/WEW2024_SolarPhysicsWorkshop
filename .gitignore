@@ -6,4 +6,4 @@ push
 *.jpg
 *.mp4
 **/*.ipynb_checkpoints/
-Stage 0.ipynb
+Stage\ 0.ipynb
