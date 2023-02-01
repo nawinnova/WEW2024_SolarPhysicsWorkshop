@@ -1,6 +1,6 @@
 # MSSL Work Experience Week Python Workshop 2022
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/ORBYTs_Pythonworkshop)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andyto1234/WEW_PythonWorkshop/HEAD)
 
 Repository for the Work Experience Week at MSSL (2022)
