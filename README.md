@@ -1,4 +1,4 @@
-# Solar Physics Python Workshop, MSSL Space Science Week 2024
+# Solar Physics Python Workshop - MSSL Space Science Week 2024
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/WEW2024_SolarPhysicsWorkshop)
 
@@ -14,12 +14,12 @@ Feel free to come back to this repository and play with the code anytime!
 1. Basic Python programming 
 2. Advanced Python + numpy package
 3. Plotting graph/figures in Python 
-4. Looking at the Sun: Extreme-ultraviolet images \\
-  4a: Downloading and inspecting data\\
-  4b: Defining the boundaries of CH \\
-5. Looking at the Sun: Coronagraphic Images \\
-  5a: Downloading and inspecting data \\
-  5b: Calculating the propagation speed of CMEs \\
+4. Looking at the Sun: Extreme-ultraviolet images <br>
+  4a: Downloading and inspecting data <br>
+  4b: Defining the boundaries of CH
+5. Looking at the Sun: Coronagraphic Images <br>
+  5a: Downloading and inspecting data <br>
+  5b: Calculating the propagation speed of CMEs 
 
   
  
