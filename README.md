@@ -1,4 +1,4 @@
-# Basic Python Workshop for ORBYTs Project: Dark Jet
+# Solar Physics Python Workshop, MSSL Space Science Week 2024
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/WEW2024_SolarPhysicsWorkshop)
 
@@ -10,16 +10,16 @@ This repository holds jupyter notebooks for students that attend this workshop s
 
 Feel free to come back to this repository and play with the code anytime!
 
-- Stages 
+### Stages 
 1. Basic Python programming 
 2. Advanced Python + numpy package
 3. Plotting graph/figures in Python 
-4. Looking at the Sun: Extreme-ultraviolet images
-  4a: Downloading and inspecting data
-  4b: Defining the boundaries of CH
-5.	Stage 5: Looking at the Sun: Coronagraphic Images
-  5a: Downloading and inspecting data
-  5b: Calculating the propagation speed of CMEs
+4. Looking at the Sun: Extreme-ultraviolet images \\
+  4a: Downloading and inspecting data\\
+  4b: Defining the boundaries of CH \\
+5. Looking at the Sun: Coronagraphic Images \\
+  5a: Downloading and inspecting data \\
+  5b: Calculating the propagation speed of CMEs \\
 
   
  
